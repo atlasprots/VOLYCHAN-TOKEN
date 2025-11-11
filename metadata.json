@@ -1,0 +1,15 @@
+{
+  "name": "VOLYCHAN",
+  "symbol": "VYN",
+  "description": "VOLYCHAN is a fun meme token on the TON blockchain celebrating humor, anime, and femboy culture — made purely for community and laughter.",
+  "image": "https://i.ibb.co/5xcLPqT5/Picsart-25-11-10-18-23-18-653.png",
+  "social_links": [],
+  "websites": [
+    "https://github.com/ovierstad-maker/VOLYCHAN-TOKEN"
+  ],
+  "total_supply": "500000000",
+  "decimals": 9,
+  "token_type": "Jetton",
+  "address": "EQCYekhOr84astWMfOChGaL9qnytb1k0x3fDrHnMJAYnLiv3",
+  "network": "TON"
+}
