@@ -8,7 +8,7 @@
     "https://github.com/ovierstad-maker/VOLYCHAN-TOKEN"
   ],
   "total_supply": "500000000",
-  "decimals": 9,
+  "decimals": 3,
   "token_type": "Jetton",
   "address": "EQCYekhOr84astWMfOChGaL9qnytb1k0x3fDrHnMJAYnLiv3",
   "network": "TON"
